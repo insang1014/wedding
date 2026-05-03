@@ -36,7 +36,7 @@ const CONFIG = {
   wedding: {
     date: "2026-06-27",
     time: "10:30",
-    venue: "더파티운 안양 5층 브리에홀",
+    venue: "더파티움 안양 5층 브리에홀",
     address: "안양시 동안구 시민대로 311",
     mapLinks: {
       kakao: "https://place.map.kakao.com/138147430",
